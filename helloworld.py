@@ -25,8 +25,8 @@ agent=4
 def main():
     time_start = time.time()
     print("Hello, world!")
-    for i in range(5000):
-        for j in range(3000):
+    for i in range(500):
+        for j in range(300):
             print("hehe", i+1, j+1)
         # print(i+1)
 
